@@ -1,0 +1,40 @@
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.exe.config
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.exe
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.pdb
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.csprojResolveAssemblyReference.cache
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.Properties.Resources.resources
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.csproj.GenerateResource.Cache
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.exe
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.pdb
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.exe.config
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.exe
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.pdb
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.exe
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.pdb
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.csprojResolveAssemblyReference.cache
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.Properties.Resources.resources
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.csproj.GenerateResource.Cache
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.ScrollBar.resources
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.ScrollBar.resources
+C:\Users\kasym\Desktop\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.MainForm.resources
+C:\Users\kasym\YandexDisk\Проекты\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.MainForm.resources
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.exe.config
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.exe
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.pdb
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.exe
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.pdb
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.csprojResolveAssemblyReference.cache
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.ScrollBar.resources
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.MainForm.resources
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.Properties.Resources.resources
+F:\Users\413-3\Desktop\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.csproj.GenerateResource.Cache
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.csprojResolveAssemblyReference.cache
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.ScrollBar.resources
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.MainForm.resources
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.Properties.Resources.resources
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.csproj.GenerateResource.Cache
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.exe
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\obj\Debug\КГ_Лабораторная_1.pdb
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.exe.config
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.exe
+C:\Users\kasym\YandexDisk\Проекты\Новая папка\КГ_Лабораторная_1\КГ_Лабораторная_1\КГ_Лабораторная_1\bin\Debug\КГ_Лабораторная_1.pdb
